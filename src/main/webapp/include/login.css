@@ -1,0 +1,120 @@
+	@charset "UTF-8";
+	
+	
+	
+	body{
+		margin : 0px;
+		background-color : #f6f6f6;
+	}
+	
+	
+	.header{
+		width : 600px;
+		margin:auto;
+		padding-top:100px;
+		padding-left:380px;
+	}
+	.login{
+		height : 280px;
+		width : 560px;
+		border:1px solid #f8f8f8;
+		border-radius : 10px;
+		background-color : #f8f8f8;
+		margin:auto;
+		margin-top:50px;	
+		margin-bottom:250px;
+		opacity:1;	
+	 }
+	 
+	 .rows{
+		height : 50px;
+		width : 250px;
+		margin : 5px 21px;
+	 }
+	 .frmlogin{
+		margin-top : 21px;
+	 }
+	 #id{
+		width : 500px;
+		height : 40px;
+		font-size : 15px;
+		font-weight : bold;
+		
+	 }
+	 #password{
+		width : 500px;
+		height : 40px;
+		font-size : 15px;
+		font-weight : bold;
+		
+	 }
+	.btn{
+		width : 510px;
+		height : 45px;
+		cursor:pointer;
+		font-size : 15px;
+		font-weight : bold;
+	}
+	.loginbt{
+		background-color:#FF385C;
+		color : #f8f8f8;
+		border:1px solid white;
+	}
+	.joinbt{
+		background-color:white;
+		color : #FF385C;
+		border:1px solid #FF385C;
+	}
+	
+	.logining{
+		font-size : 25px;
+		font-weight : bold;
+		color : #333333;
+		margin-top : 35px;
+		text-align : center;
+	}
+	
+	
+	.writebt{
+		margin-top : 20px;
+		background-color:#5f0080;
+		color : #f8f8f8;
+		border:1px solid white;
+		height : 60px;
+		width : 300px;
+	}
+	
+	.modifybt{
+		margin-top :5px;
+		background-color:gray;
+		color : white;
+		border:1px solid gray;
+		height : 60px;
+		width : 300px;
+	}
+	.mypagebt{
+		background-color:white;
+		color : #5f0080;
+		border:1px solid #5f0080; 
+	}
+	.logoutbt{
+		background-color:white;
+		color : #333333;
+		border:1px solid #333333; 
+	}
+	.checkbox{
+		margin-left:20px;
+	}
+	
+	#mainback{
+		background-image: url( "/teamA_2/include/img/chairs.png" );
+		height : 950px;
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		position: relative;
+		top : -800px;
+		Z-index : -1;
+	}
+	
+

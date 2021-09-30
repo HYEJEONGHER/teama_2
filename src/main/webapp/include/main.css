@@ -1,0 +1,225 @@
+@charset "UTF-8";
+
+	body{
+		margin : 0px;
+		background-color : #f6f6f6;
+	}
+	.header{
+	height:90px;
+	display:flex;
+	align-items:center;
+	padding-left:20px;
+	padding-top:15px;
+	}
+	.navimg{
+	margin-bottom:10px;
+	}
+	.nav{
+	display:flex;
+	margin-left:auto;
+	margin-right:30px;
+	font-size:20px;
+	font-weight:bold;
+	}
+	.nav-item{
+	margin-left:30px;
+	}
+	.main{
+	margin-left:auto;
+	margin-right:auto;
+	padding-top:80px;
+	height:auto;
+	width:1170px;
+	display:flex;
+	}
+	
+	.td1{
+	width:800px;
+	font-size : 30px;
+	font-weight : bold;
+	padding-bottom : 20px;
+	}
+	.td2{
+	width:50px;
+	}
+	.td3{
+	width:320px;
+	}
+	h2{
+	font-size:42px;
+	}
+	.mainbac{
+	padding-bottom:150px;
+	
+	}
+	table{
+	border-collapse:collapse;
+	}
+
+	a { 
+	text-decoration:none;
+	 color:white; 
+	}
+	.nav-item_a:hover { color:#FF385C; }
+	
+	#mainback{
+		height : 800px;
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		position: relative;
+		top : -650px;
+		Z-index : -1;
+	}
+	
+	.mainSearch{
+		margin-left:auto;
+		margin-right:auto;
+		padding-top:100px;
+		height:auto;
+		width:1170px;
+		
+	}
+	.wrap{
+		height : 800px;
+	}
+	.stext{
+		font-size : 30px;
+		font-weight : bold;
+		margin-bottom : 20px;
+		margin-top: 20px;
+		color : white;
+	}
+	#search{
+		font-size : 15px;
+		width: 467px;
+		height: 72px;
+		padding: 0 30px;
+		border: none;
+		background: white;
+		opacity:0.8;
+		
+	}
+	.sButton{
+		font-size : 14px;
+		color : gray;
+		width: 150px;
+		height: 72px;
+		border: none;
+		background: white;
+		cursor: pointer;
+		opacity:0.8;
+	}
+	
+	.sButton:not(.srchbtn){
+		text-align : left;
+		padding: 0 10px;
+	}
+	.srchbtn{
+		background: #FF385C;
+		color : white;
+		opacity:1.0;
+		font-size : 15px;
+	}
+	
+	.stext2{
+		font-weight : bold;
+		margin-top: 20px;
+		font-size : 50px;
+		color : white;
+
+	}
+	#dateinput{
+		font-size : 14px;
+	}
+	.divimg{
+		width : 570px;
+		height : 287px;
+		border-radius : 10px 10px 0px 0px;
+	}
+	.tdimg{
+		width : 570px;
+	}
+	.con1{
+		width : 530px;
+		padding : 20px;
+		background-color : white;
+		border-radius : 0px 0px 10px 10px;
+		cursor:pointer;
+	}
+	.star{
+		position:relative;
+		top:-290px;
+		left:510px;
+		width:15px;
+		cursor:pointer;
+		text-align:center;
+		font-size : 50px;
+		color : white;
+	}
+	.con{
+		font-size : 20px;
+		padding : 2px;
+	}
+	.contitle{
+		font-size : 25px;
+		font-weight : bold;
+	}
+	.conEx{
+		color : gray;
+	}
+	.price{
+		font-size : 25px;
+		color : #FF385C;
+	}
+	.lo{
+		font-size : 15px;
+	}
+	.table2{
+		margin-left:auto;
+		margin-right:auto;
+		padding-top:50px;
+		height:auto;
+		width:1170px;
+		display:flex;
+	}
+	.tdimg2{
+		width : 270px;
+	}
+	.divimg2{
+		width : 270px;
+		height : 170px;
+		border-radius : 10px 10px 0px 0px;
+	}
+	.con2{
+		width : 250px;
+		padding : 10px;
+		background-color : white;
+		border-radius : 0px 0px 10px 10px;
+		cursor:pointer;
+	}
+	.star2{
+		position:relative;
+		top:-175px;
+		left:220px;
+		width:15px;
+		cursor:pointer;
+		text-align:center;
+		font-size : 40px;
+		color : white;
+	}
+	#circle {
+		background-color:#FF385C;
+		width:75px; height:75px;
+		border-radius:55px;
+		text-align:center;
+		margin:0 auto;
+		font-size:20px; color:#fff;
+		vertical-align:middle;
+		line-height:75px;
+		cursor:pointer;
+		position : fixed;
+		right : 20px;
+		bottom : 20px;
+		}
+	

@@ -1,0 +1,184 @@
+@charset "UTF-8";
+
+	.mainSearch{
+		margin-left:auto;
+		margin-right:auto;
+		padding-top:30px;
+		height:auto;
+		width:1170px;
+		
+	}
+
+	.stext{
+		font-size : 30px;
+		font-weight : bold;
+		margin-bottom : 20px;
+		margin-top: 20px;
+		color : white;
+	}
+	#search{
+		font-size : 15px;
+		width: 467px;
+		height: 72px;
+		padding: 0 30px;
+		border: none;
+		background: white;
+		opacity:0.8;
+		
+	}
+	.sButton{
+		font-size : 14px;
+		color : gray;
+		width: 150px;
+		height: 72px;
+		border: none;
+		background: white;
+		cursor: pointer;
+		opacity:0.8;
+	}
+	
+	.sButton:not(.srchbtn){
+		text-align : left;
+		padding: 0 10px;
+	}
+	.srchbtn{
+		background: #FF385C;
+		color : white;
+		opacity:1.0;
+		font-size : 15px;
+	}
+	
+	.stext2{
+		font-weight : bold;
+		margin-top: 20px;
+		font-size : 50px;
+		color : white;
+
+	}
+	#dateinput{
+		font-size : 14px;
+	}
+	.divimg{
+		width : 570px;
+		height : 287px;
+		border-radius : 10px 10px 0px 0px;
+	}
+	.tdimg{
+		width : 570px;
+	}
+	.con1{
+		width : 530px;
+		padding : 20px;
+		background-color : white;
+		border-radius : 0px 0px 10px 10px;
+	}
+	.star{
+		position:relative;
+		top:-290px;
+		left:510px;
+		width:15px;
+		cursor:pointer;
+		text-align:center;
+		font-size : 50px;
+		color : white;
+	}
+	.con{
+		font-size : 20px;
+		padding : 2px;
+	}
+	.contitle{
+		font-size : 25px;
+		font-weight : bold;
+	}
+	.conEx{
+		color : gray;
+	}
+	.price{
+		font-size : 25px;
+		color : #FF385C;
+	}
+	.lo{
+		font-size : 15px;
+	}
+	.table2{
+		margin-left:auto;
+		margin-right:auto;
+		padding-top:10px;
+		height:auto;
+		width:1170px;
+		display:flex;
+	}
+	.tdimg2{
+		width : 270px;
+	}
+	.divimg2{
+		width : 270px;
+		height : 170px;
+		border-radius : 10px 10px 0px 0px;
+	}
+	.con2{
+		width : 250px;
+		padding : 10px;
+		background-color : white;
+		border-radius : 0px 0px 10px 10px;
+		cursor : pointer;
+	}
+	.star2{
+		position:relative;
+		top:-175px;
+		left:220px;
+		width:15px;
+		cursor:pointer;
+		text-align:center;
+		font-size : 40px;
+		color : white;
+	}
+	#circle {
+		background-color:#FF385C;
+		width:75px; height:75px;
+		border-radius:55px;
+		text-align:center;
+		margin:0 auto;
+		font-size:20px; color:#fff;
+		vertical-align:middle;
+		line-height:75px;
+		cursor:pointer;
+		position : fixed;
+		right : 20px;
+		bottom : 20px;
+		}
+	.wrapoption{
+		padding : 50px 0px 20px 21.5px;
+		width : 1148.5px;
+		text-align : right;
+		border-bottom:3px solid  #FF385C;
+	}
+	.listoption{
+		font-size : 14px;
+		color : gray;
+		width: 200px;
+		height: 50px;
+		border: none;
+		background: white;
+		cursor: pointer;
+		opacity:0.8;
+	}
+	
+	.morewrap{
+		margin-left:auto;
+		margin-right:auto;
+		padding-top:30px;
+		height:auto;
+		width:1170px;
+		text-align : center;
+	}
+	
+	#more{
+		cursor:pointer;
+		height:50px;
+		width:270px;
+		border : none;
+		background-color : #FF385C;
+		color : white;
+		font-weight : bold;
+	}
