@@ -56,7 +56,7 @@
 		<div class="header" >
 			<a href="index.jsp"><img src="include/img/logo_white.png" width="200" class="navimg" ></a>
 		<div class="nav">
-		<!-- 주석 추가 한부분 2222-->
+		<!-- 주석 추가 한부분 33333-->
 			<div class="nav-item"><a class="nav-item_a" href="/teamA_2/login/login.do">로그인/회원가입</a></div>
 			<div class="nav-item"><a class="nav-item_a" href="/teamA_2/notice/list.do">공지</a></div>
 			<div class="nav-item"><a class="nav-item_a" href="/teamA_2/qna/list.do">문의</a></div>
